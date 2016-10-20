@@ -1,7 +1,7 @@
 {
   "name": "clipboard-autocomplete",
   "main": "./lib/main.js",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "description": "Get easily the text from your clipboard !",
   "repository": "https://github.com/metrakit/atom-clipboard-autocomplete",
   "license": "MIT",
